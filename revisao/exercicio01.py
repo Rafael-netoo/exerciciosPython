@@ -1,4 +1,4 @@
-soma  = 0 ;
+soma  = 0 
 nota = -1
 for x in range(2):
     nota = float(input(f'Digite a nota{x+1}:'))
